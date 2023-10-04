@@ -1,6 +1,6 @@
 # PHP-Module 4 Assignment
 
-মডিউল ৪ এর এসাইনমেন্ট<br>
+<b>মডিউল ৪ এর এসাইনমেন্ট</b><br><br>
 You are working on a project to create an online shopping cart system. As part of the project, you need to implement a Product class that represents a product in the system. The Product class should have the following properties:
 
 
